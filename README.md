@@ -12,10 +12,7 @@ One project I’m especially proud of is a grant-funded research study on CalFre
 
 Below, you’ll find a mix of academic, professional, and personal projects. Feel free to explore — and thanks for stopping by!
 
-📫 **Let’s connect:**  
-- LinkedIn: [linkedin.com/in/mia-jerphagnon/](https://www.linkedin.com/in/mia-jerphagnon/)
-- Email: miajerph@gmail.com
-
+##
 ### Academic
 - [An Investigation into Nutrition vs Yummy: How does Nutritional Content Impact the Average Rating of a Recipe?](https://miajerph.github.io/recipe-project/)
 - [Is Human-Generated or AI-Generated Art More Successful?](https://github.com/COGS108/Group073_WI24/blob/master/FinalProject_Group073_WI24.ipynb)
@@ -23,6 +20,11 @@ Below, you’ll find a mix of academic, professional, and personal projects. Fee
   
 ### Professional
 - [XGBoost Interpretability Demo](https://github.com/miajerph/cosd/blob/81b77c994e4ba0b9cdf44a989f6df9fc8adabafc/xgboost_interpretability_demo.ipynb)
+
+##
+📫 **Let’s connect:**  
+- LinkedIn: [linkedin.com/in/mia-jerphagnon/](https://www.linkedin.com/in/mia-jerphagnon/)
+- Email: miajerph@gmail.com
 
 <!--
 **miajerph/miajerph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
