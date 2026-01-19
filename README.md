@@ -19,6 +19,7 @@ Below, you’ll find a mix of academic, professional, and personal projects. Fee
 ### Academic
 - [An Investigation into Nutrition vs Yummy: How does Nutritional Content Impact the Average Rating of a Recipe?](https://miajerph.github.io/recipe-project/)
 - [Is Human-Generated or AI-Generated Art More Successful?](https://github.com/COGS108/Group073_WI24/blob/master/FinalProject_Group073_WI24.ipynb)
+- [Analysis of Netflix Cancellation Data](https://github.com/miajerph/math189project/blob/f91acd90843d9ffe8daa95839e8218736678921e/Analysis%20of%20Netflix%20Cancellation%20Data.ipynb)
 
 ## Professional
 - 
