@@ -20,15 +20,14 @@ Below, you’ll find a mix of academic, professional, and personal projects. Fee
 - [An Investigation into Nutrition vs Yummy: How does Nutritional Content Impact the Average Rating of a Recipe?](https://miajerph.github.io/recipe-project/)
 - [Is Human-Generated or AI-Generated Art More Successful?](https://github.com/COGS108/Group073_WI24/blob/master/FinalProject_Group073_WI24.ipynb)
 - [Analysis of Netflix Cancellation Data](https://github.com/miajerph/math189project/blob/f91acd90843d9ffe8daa95839e8218736678921e/Analysis%20of%20Netflix%20Cancellation%20Data.ipynb)
-
-## Professional
-- 
+  
+### Professional
+- [XGBoost Interpretability Demo](https://github.com/miajerph/cosd/blob/81b77c994e4ba0b9cdf44a989f6df9fc8adabafc/xgboost_interpretability_demo.ipynb)
 
 <!--
 **miajerph/miajerph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
