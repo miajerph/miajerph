@@ -12,7 +12,13 @@ One project I’m especially proud of is a grant-funded research study on CalFre
 
 Below, you’ll find a mix of academic, professional, and personal projects. Feel free to explore — and thanks for stopping by!
 
+📫 **Let’s connect:**  
+- LinkedIn: [linkedin.com/in/your-link-here  ](https://www.linkedin.com/in/mia-jerphagnon/)
+- Email: miajerph@gmail.com
 
+### Academic
+[Nutritional Analysis](https://miajerph.github.io/recipe-project/)
+[Is Human-Generated or AI-Generated Art More Successful?](https://github.com/COGS108/Group073_WI24/blob/master/FinalProject_Group073_WI24.ipynb)
 
 <!--
 **miajerph/miajerph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
