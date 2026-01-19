@@ -21,6 +21,9 @@ Below, you’ll find a mix of academic, professional, and personal projects. Fee
 ### Professional
 - [XGBoost Interpretability Demo](https://github.com/miajerph/cosd/blob/81b77c994e4ba0b9cdf44a989f6df9fc8adabafc/xgboost_interpretability_demo.ipynb)
 
+### Personal
+- Coming soon...
+
 ##
 📫 **Let’s connect:**  
 - LinkedIn: [linkedin.com/in/mia-jerphagnon/](https://www.linkedin.com/in/mia-jerphagnon/)
