@@ -20,6 +20,7 @@ Below, you’ll find a mix of academic, professional, and personal projects. Fee
   
 ### Professional
 - [XGBoost Interpretability Demo](https://github.com/miajerph/cosd/blob/81b77c994e4ba0b9cdf44a989f6df9fc8adabafc/xgboost_interpretability_demo.ipynb)
+  - [Corresponding slide presentation](https://github.com/miajerph/cosd/blob/62c751ce9dcefca46ce57b7e24c3906b1fd6efbc/XGBoost%20%26%20SHAP%20Demo.pdf) 
 
 ### Personal
 - Coming soon...
