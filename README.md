@@ -21,7 +21,7 @@ Below, you’ll find a mix of academic, professional, and personal projects. Fee
 ### Professional
 - [XGBoost Interpretability Demo](https://miajerph.github.io/work/xgboost_interpretability_demo.html)
   - [Corresponding slide presentation](https://miajerph.github.io/work/xgboost_shap_demo_pdf.html)
-- [Data Science Alliance Summer 2024 Retrospective](https://github.com/miajerph/work/blob/fc84b007be654c8009276088064664e81d01cbf9/DSA%20Summer%202024%20Retrospective.pdf)
+- [Data Science Alliance Summer 2024 Retrospective](https://miajerph.github.io/work/dsa_summer_retrospective_pdf.html)
 
 ### Personal
 - Coming soon...
