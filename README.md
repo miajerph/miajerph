@@ -24,7 +24,7 @@ Below, you’ll find a mix of academic, professional, and personal projects. Fee
 - [Data Science Alliance Summer 2024 Retrospective](https://miajerph.github.io/work/dsa_summer_retrospective_pdf.html)
 
 ### Personal
-- Coming soon...
+- [Fall 2025 CalFresh Presentation](https://miajerph.github.io/calfresh/fall_2025_calfresh_presentation_pdf.html) (2nd wave)
 
 ##
 📫 **Let’s connect:**  
