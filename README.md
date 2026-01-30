@@ -23,7 +23,7 @@ Below, you’ll find a mix of academic, professional, and personal projects. Fee
   - [Corresponding slide presentation](https://miajerph.github.io/work/xgboost_shap_demo_pdf.html)
 - [Data Science Alliance Summer 2024 Retrospective](https://miajerph.github.io/work/dsa_summer_retrospective_pdf.html)
 
-### Personal
+### Research
 - [Fall 2025 CalFresh Presentation](https://miajerph.github.io/calfresh/fall_2025_calfresh_presentation_pdf.html)
   - Concerns 1st wave in spring 2025
 - Cumulative spring 2025 to winter 2026 analysis coming soon...
